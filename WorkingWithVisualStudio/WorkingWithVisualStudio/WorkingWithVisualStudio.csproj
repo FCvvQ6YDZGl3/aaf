@@ -11,6 +11,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\" />
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties bower_1json__JSONSchema="https://json.schemastore.org/accelerator.json" /></VisualStudio></ProjectExtensions>
 
 </Project>
